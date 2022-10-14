@@ -1,0 +1,36 @@
+
+{
+    "favourites":[
+    {
+        "title":"VK",
+        "genre":"mistry",
+        "language":"kannada",
+        "rating":"9"
+
+    },
+    {
+        "title":"Chichore",
+        "genre":"drama",
+        "language":"hindi",
+        "rating":"9"
+    },
+    {
+        "title":"Bhaagi 3",
+        "genre":"action",
+        "language":"hindi",
+        "rating":"5"
+    },
+    {
+        "title":"Mission mangal",
+        "genre":"sci-fi",
+        "language":"hindi",
+        "rating":"8.5"
+    },
+    {
+        "title":"Super30",
+        "genre":"biopic",
+        "language":"hindi",
+        "rating":"8.7"
+    }
+]
+}

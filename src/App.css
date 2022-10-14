@@ -1,0 +1,118 @@
+.navbar{
+  display: flex;
+  background-color:rgb(21, 21, 67);
+  padding: 15px 0px;
+  justify-content: space-between;
+  align-items: center;
+}
+.links a{
+  color: antiquewhite;          
+  text-decoration: none;
+  margin: 0px 15px;
+  font-size: 20px;
+}
+.links a:hover{
+  color:darkorange ;
+}
+.home{
+  background-color:rgb(21, 21, 67);
+  text-align: center;
+  padding-bottom: 20px;
+}
+.poster img{
+  border-radius: 15px;
+}
+
+.movies img{
+  border-radius:20px;
+  padding: 10px;
+}
+
+.favourites{
+  background-color: rgb(21, 21, 67);
+  color: aliceblue;
+  text-align: center;  
+  padding: 25px; 
+}
+.list{
+  background-color: black;
+}
+.list:hover{
+  background-color:rgb(21, 21, 67);
+}
+.favourites h2{
+  font-size:50px;
+}
+.footer{
+  background-color:rgb(21, 21, 67) ;
+  text-align: center;
+  padding: 25px 0px;
+}
+.footer a{
+  text-decoration: none;
+  color: antiquewhite;
+  margin: 0px 15px;
+}
+.footer p{
+  color: antiquewhite;
+}
+
+.addfvrt input{
+  display:block ;
+  margin: 40px 30px;
+  
+}
+.addfvrt{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(21, 21, 67);
+
+}
+.form{
+  background-color:blueviolet;
+}
+.content{
+  background-color: darkblue;
+  color: antiquewhite;
+  margin: 80px 0px  ;
+}
+.content h1{
+  margin: 28px 0px;
+  padding: 100px;
+  
+}
+.form button{
+  background-color: blue;
+  color: antiquewhite;
+  width: 150px;
+  margin-bottom: 10px;
+}
+.about{
+  display: flex;
+  background-color:rgb(21, 21, 67) ;
+  color: antiquewhite;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 15px;
+
+
+}
+.text{
+  margin: 28px 0px;
+  padding: 100px;
+  
+}
+.state{
+  background-color: rgb(21, 21, 67);
+  padding: 50px;
+}
+.state button{
+  background-color: brown;
+  color: aliceblue;
+}
+.list button{
+  background-color: brown;
+  width: 100px;
+  height: 30ppx;
+}
