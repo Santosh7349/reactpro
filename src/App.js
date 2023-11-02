@@ -8,7 +8,7 @@ import About from "./about";
 import Footer from "./footer";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-//function
+//function santsoh
 function App() {
   let title = "Favourites Movies";
 
